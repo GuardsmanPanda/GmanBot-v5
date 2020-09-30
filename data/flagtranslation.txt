@@ -1,0 +1,297 @@
+none,noflag
+Afghanistan,af,afk,afghan
+African Union,africa,african
+Aland,ax,axa,land
+Albania,al,alb,shqiponjadykrenare,albanian
+Alderney
+Algeria,dz,dza,algerian
+American Samoa
+Andorra,andorran
+Angola,angolian,angolan
+Anguilla,aia
+Antarctica,antartica,antarctican
+Antigua & Barbuda,ag,atg
+Arab League,arabia,arabian
+Argentina,ar,arg,laalbiceleste,lacelesteyblanca,argentine,argentinian,argentinean
+Armenia,am,arm,yerakooyn,armenian
+Aruba,aw,abw
+ASEAN
+Australia,au,aus,australian,aussie,ozzie
+Austria,at,aut,austira,rotweissrot,austrian
+Azerbaijan,az,aze,rnglibayra,ucrenglibayrag,azerbaijani
+Bahamas,bs,bhs,bahamian,thebahamas
+Bahrain,bh,bhr,bahraini
+Bangladesh,bd,bgd,bengladesh,bangladeshi
+Barbados,bb,brb
+Basque Country
+Bavaria,bavarian
+Belarus,by,blr,belarusian
+Belgium,belguim,be,beglium,belgian
+Belize,bz,blz,belizean
+Benin,bj,ben,beninese
+Bermuda,bm,bmu
+Bhutan,bt,btn,buthan,bhutanese
+Bolivia,bq,bol,bolivian
+Bosnia & Herzegovina,ba,bih,bosnia,bosniaandherzegovina,bosnian
+Botswana,bw,bwa,motswana,batswana
+Bouvet,bv,bvt,bouvetisland
+Brazil,br,bra,brasil,bandeiraauriverde,brazilian,brasilian
+British Indian Ocean Territory,io,iot
+Brunei,bn,brn,bruneidarussalam,bruneian
+Bulgaria,bg,bgr,buglaria,bulgarian
+Burkina Faso,bf,bfa,burkinabe
+Burundi,bi,bdi,burundian
+Cambodia,kh,khm,cambodian
+Cameroon,cm,cmr,cameroonian
+Canada,ca,can,canadian
+Cape Verde,cv,cpv,capeverdian,capeverdean
+CARICOM
+Catalonia
+Cayman Islands,ky,cym
+Central African Republic,cf,caf,centralafrican
+Chad,td,tcd,chadian
+Chile,cl,chl,chilenian,Chilean
+China,cn,chn,wxnghngq,wuxinghongqi,chinese
+Christmas Island,cx,cxr,christmasislands
+CIS
+Cocos (Keeling),cc,cck,cocoskeelingislands,cocos
+Colombia,co,col
+Commonwealth
+Comoros,km,com,comoran
+Congo,cd,cod,democraticrepublicofthecongo,congolese
+Cook Islands,ck,cok
+Costa-Rica,cr,cri,costarican
+Cote d'Ivoire,ci,civ,ivorian,ivorycoast,iverycoast
+Croatia,hr,hrv,croat,croatian
+Cuba,cu,cub,Cuban
+Curacao
+Cyprus,cypriot
+Czech Republic,cz,cze,czech,czechrepublick
+Denmark,danmark,dk,den,danish,denamrk,dannebrog,dane
+Djibouti,dj,dji
+Dominica,dm,dma
+Dominican Republic,do,dom
+Ecuador,ec,ecu,equador,republicofecuador,ecuadorean
+Egypt,eg,egy,egyptian
+El Salvador,sv,slv,salvadoran
+England,engkand,stgeorgescross
+Equatorial Guinea,gq,gnq,equatorialguinean,equatoguinean
+Eritrea,er,eri,eritrean
+Estonia,ee,est,sinimustvalge,estonian
+Ethiopia,et,eth,etheopia,ethiopian
+European Union,europe,eu,european,europa
+Falkland (Malvinas),fk,flk,falklandislands
+FAO
+Faroes,fo,fro,faroeislands,faroeilands,faroeisland,faeroeislands
+Fiji,fj,fji,fijian
+Finland,fi,fin,finnish,siniristilippu,finn
+France,fr,fra,french,frenchman,frenchwoman
+French Southern and Antarctic Lands,tf,atf
+French-Guiana,gf,guf
+Gabon,ga,gab,gabonese
+Galicia
+Gambia,gm,gmb,gambian
+Georgia,ge,geo,georgian
+Germany,deu,german,de,deutschland,deustchland,germaygermny,schwarzrotgold,bundesflagge
+Ghana,gh,gha,ghanaian
+Gibraltar,gi,gib
+Greece,gr,grc,greek,galanolefki
+Greenland,gl,grl,erfalasorput,aappalaartoq
+Grenada,gd,grd,grenadian,grenadan
+Guadeloupe,gp,glp
+Guam,gu,gum
+Guatemala,gt,gtm,guatemalan
+Guernsey,gg,ggy
+Guinea,gn,gin,guinean
+Guinea-Bissau,gw,gnb,guineabissauan
+Guyana,gy,guy,goldenarrowhead,thegoldenarrowhead
+Haiti,ht,hti,haitian
+Heard Island and McDonald,hm,hmd
+Honduras,hn,hnd,honduran,hondurian
+Hong Kong,hk,hkg
+Hungary,hu,hun,hunagry,hungarian
+IAEA
+Iceland,is,isl,icelander,icelandic
+IHO
+India,in,ind,tiranga,indian
+Indonesia,id,idn,sangsakamerahputih
+Iran,ir,irn,shirokhorshid,iranian
+Iraq,iq,irq,irak,iraqi
+Ireland,ie,irl,irish,irishman,irishwoman,hibernia,eire
+Islamic Conference
+Isle of Man,im,imn,ellanvannin
+Israel,il,isr,isreal,israeli
+Italy,it,ita,italian
+Jamaica,jm,jam,jamaca,jamaican
+Japan,jp,jpn,japanese,hinomaru,nisshki,nisshoki
+Jersey,je,jey
+Jordan,jo,jor,jordanian
+Kazakhstan,kz,kaz,kazakhstani
+Kenya,ke,ken,kenyan
+Kiribati,ki,kir
+Klingon
+Kosovo,kosovar
+Kuwait,kw,kwt,alambaladii,kuwaiti,kuwaitian
+Kyrgyzstan,kg,kgz,kyrgyz,kirghiz
+Laos,la,lao,laotian
+Latvia,lv,lva,sarkanbaltsarkan,latvian
+Lebanon,lb,lbn,lebanese
+Lesotho,ls,lso,mosotho,basotho
+Liberia,lr,lbr,liberian
+Libya,ly,lby,libia,lybia,libyan
+Liechtenstein,li,lie,liechtensteiner,liechtensteinian
+Lithuania,lt,ltu,lithuanian
+Luxembourg,lu,lux,luxemburg,luxembourger,luxembourgian
+Macao,mo,mac
+Macedonia,mk,mkd,macedonian
+Madagascar,mg,mdg,malagasy,madagaskar
+Malawi,mw,mwi,malawian
+Malaysia,my,mys,jalurgemilang,malaysian
+Maldives,mv,mdv,maldivan
+Mali,ml,mli,malian
+Malta,mt,mlt,maltese,maltesian
+Marriageequality
+Marshall Islands,mh,mhl,marshallese,marshallesian
+Martinique,mq,mtq
+Mauritania,mr,mrt,mauritanian
+Mauritius,mu,mus,mauritian
+Mayotte,yt,myt
+Mexico,mx,mex,mexican
+Micronesia,fm,fsm,micronesian
+Moldova,md,mda,moldovan,moldovian
+Monaco,mc,mco,monegasque,monacan,monacanian
+Mongolia,mn,mng,mongolian
+Montenegro,me,mne,montenegrin,montenegrinian
+Montserrat,ms,msr
+Morocco,ma,mar,morroco,moroccco,moroccan,moroccanian
+Mozambique,mz,moz,mozambican
+Myanmar(Burma),mm,mmr,myanmar,burma,burmese,burmesian,myanmarese,myanmaresian
+Namibia,na,nam,namibian
+NATO
+Nauru,nr,nru,nauruan
+Nepal,np,npl,nepalese,nepalesian
+Netherlands Antilles
+Netherlands,nl,nld,holland,the netherlands,dutch,netherland,hollandd,thenetherland
+New Caledonia,nc,ncl
+New Zealand,nz,nzl,newsealand,newzealander,kiwi,newzeland
+Nicaragua,ni,nic,nicaraguan
+Niger,ne,ner,nigerien
+Nigeria,ng,nga,nigerian
+Niue,nu,niu
+Norfolk,nf,nfk
+North Korea,kp,prk,bestkorea,northkoreastrong,northkorean
+Northern Cyprus
+Northern Ireland
+Northern Mariana,mp,mnp
+Norway,no,nor,dannebrogelva,norwegian
+OAS
+OECD
+Olympic Movement,olympic
+Oman,om,omn,omani,omanian
+OPEC
+Pakistan,pk,pak,sabzhilali,pakistani,pakistanian
+Palau,pw,plw,palauan
+Palestine,ps,pse
+Panama,pa,pan,panamanian
+Panda,bobaria,bobarian,bob
+Papua New Guinea,pg,png,papuanewguinean,papuanewguinian
+Paraguay,py,pry,paraguayan
+Peru,pe,per,peruvian
+Philippines,ph,phl,philipines,filipino,filipinian
+Pirate,pirat,jollyroger,jollyrodger
+Pirate2
+Pitcairn
+Poland,pl,pol,polish,biaoczerwona,bialoczerwona,pole
+Portal,aparture,aperturescience,aperture
+Portugal,pt,prt,portuguese,portgual,portugl,tuga
+Protoss,toss
+Puerto Rico,pr,pri
+Qatar,qa,qat,innabi,qatari,qatarian
+Quebec
+Rainbow,gay,gaypride,penis,nazi,lgbt,lgbtq,nazigermany
+Red Cross
+Reunion,re,reu
+Romania,ro,rou,tricolorul,romanian
+Russian Federation,ru,rus,russia,trikolor,russian
+Rwanda,rw,rwa,rwandan
+Saint Barthelemy,bl,blm
+Saint Helena,sh,shn
+Saint Lucia,lc,lca,saintlucian
+Saint Pierre and Miquelon,pm,spm
+Saint-Martin (French),mf,maf,saintmartin
+Samoa,ws,wsm,samoan
+San Marino,sm,smr,sammarinese,
+Sao Tome & Principe,st,stp,saotomean,sotomandprncipe,saotome
+Saudi Arabia,sa,sau,saudi,saudiarabian
+Scotland,scot,alba
+Senegal,sn,sen,senegalese,senegalesian
+Serbia(Yugoslavia),rs,srb,serbia,sebia,serbian
+Seychelles,seyshelles,sc,syc,seychellois
+Sierra Leone,sl,sle,sierraleonean,sierraleonian
+Singapore,sg,sgp,singaporean,singaporian
+Sint-Maarten,sx,sxm
+Slovakia,sk,svk,slovak,slovakian
+Slovenia,si,svn,slovenija,slovenian,slovene
+Solomon Islands,sb,slb,solomonislander
+Somalia,so,som,somolia,somali
+Somaliland
+South Africa,za,zaf,southafrican
+South Georgia and South Sandwich,gs,sgs
+South Korea,kr,kor,beastkorea,korea,korean,taegeukgi,southkorean
+Southern-Sudan,ss,ssd
+Spain,es,esp,rojigualda,spaniard,spanish
+Sri Lanka,lk,lka,srilankan
+St Kitts & Nevis
+St Vincent & the Grenadines,svg,saintvincentandthegrenadines
+Sudan,sd,sdn,sudanese,sudanesian
+Suriname,sr,sur,surinamer
+Svalbard and Jan Mayen,sj,sjm
+Swaziland,sz,swz,swazi,swazian
+Sweden,se,swe,swea,swede,swedem,swedish
+Switzerland,ch,che,swiss
+Syria,sy,syr,anajmataynee,syrian
+Tahiti(French Polinesia),pf,pyf
+Taiwan,tw,twn,taiwanese,taiwanesian
+Tajikistan,tj,tjk,tajik,tadzhik
+Tanzania,tz,tza,tanzanian
+Terran
+Thailand,th,tha,trairong,thai
+Timor-Leste,tl,tls
+Togo,tg,tgo
+Tokelau,tk,tkl,togolese,togolesian
+Tonga,to,ton,tongan,tonganian
+Trinidad & Tobago,tt,ttotrinidadandtobago,trinidadian,tobagonian,trinidadandtobago
+Tristan-da-Cunha
+Tunisia,tn,tun,tunice,tunisie,tunisian
+Turkey,tr,tur,albayrak,alsancak,ayydz,turk,turkish
+Turkmenistan,tm,tkm,turkmen,turkmenian
+Turks and Caicos Islands,tc,tca
+Tuvalu,tv,tuv,tuvaluan
+Uganda,ug,uga,ugandan
+Ukraine,ua,ukr,zhovtoblakytnyy,ukranian
+UNESCO
+UNICEF
+United Arab Emirates,ae,are,emirian
+United Kingdom(Great Britain),gb,gbr,uk,unitedkingdom,greatbritain,britan,britain,greatbritian,unionjack,theunionjack,unitedkindgom
+United Nations,un
+United States Minor Outlying,um,umi
+United States of America(USA),us,usa,murica,unitedstatesamerica,unclesam,america,unitedstates,murika,unitedstatesofamerica,american,merrica,murrica,merica,unitedstate,usofa,unitedstales
+Uruguay,uy,ury,uruguayan
+Uzbekistan,uz,uzb,uzbek,uzbekistani
+Vanuatu,vu,vut,van
+Vatican City,va,vat,vatican,thevatican,holysee,holysea
+Venezuela,ve,ven,venezuelan,venezuelian
+Venom
+Viet Nam,vn,vnm,vietnamese,vietnamesian
+Virgin Islands British,vg,vgb,britishvirginisles,britishvirginislands
+Virgin Islands US,vi,vir
+Wales,yddraiggoch ,wal
+Wallis and Futuna,wf,wlf
+Western Sahara,eh,esh
+White,confederate,confedracy
+WHO
+WTO
+Yemen,ye,yem,yemenite,yemeni
+Zambia,zm,zmb,zambian,zam
+Zerg
+Zimbabwe,zw,zwe,zimbawne,zimbawe,zimbabwean,zimbabwian

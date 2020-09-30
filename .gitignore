@@ -1,0 +1,7 @@
+/BobsDB
+/target
+/.idea
+
+GBoTv5.iml
+derby.log
+.env
